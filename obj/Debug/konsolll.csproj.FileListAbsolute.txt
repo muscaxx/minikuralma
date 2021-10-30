@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\bin\Debug\konsolll.exe.config
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\bin\Debug\konsolll.exe
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\bin\Debug\konsolll.pdb
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\obj\Debug\konsolll.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\obj\Debug\konsolll.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\obj\Debug\konsolll.exe
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\konsolll\obj\Debug\konsolll.pdb
